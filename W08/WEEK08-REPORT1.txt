@@ -1,0 +1,26 @@
+ZCZC pwd
+/home/angelindepthios/RESULT/W08
+ZCZC date
+Sun 09 May 2021 02:08:38 PM WIB
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             4070096       0   4070096   0% /dev
+tmpfs             816996    8628    808368   2% /run
+/dev/sda2       65543732 1772488  60412012   3% /
+tmpfs            4084964       0   4084964   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            4084964       0   4084964   0% /sys/fs/cgroup
+/dev/sdb2       65543732  493956  61690544   1% /mnt/lfs
+tmpfs             816992       0    816992   0% /run/user/1001
+ZCZC hostnamectl
+   Static hostname: angelindepthios
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 3821e3074f7148e687322f91fdb6b4b3
+           Boot ID: 785b7e5fe1794ec9bf8d9e676b30ada3
+    Virtualization: oracle
+  Operating System: Debian GNU/Linux 10 (buster)
+            Kernel: Linux 4.19.0-16-amd64
+      Architecture: x86-64
+ZCZC chktoken
+angelindepthios 1726-7F53

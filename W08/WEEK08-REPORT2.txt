@@ -1,0 +1,18 @@
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             4070096       0   4070096   0% /dev
+tmpfs             816996    8628    808368   2% /run
+/dev/sda2       65543732 1772500  60412000   3% /
+tmpfs            4084964       0   4084964   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            4084964       0   4084964   0% /sys/fs/cgroup
+/dev/sdb2       65543732  493956  61690544   1% /mnt/lfs
+tmpfs             816992       0    816992   0% /run/user/1001
+ZCZC pwd
+/home/angelindepthios/RESULT/W08
+ZCZC date
+Sun 09 May 2021 02:23:04 PM WIB
+ZCZC hostname
+angelindepthios
+ZCZC chktoken
+angelindepthios 2342-DED4
