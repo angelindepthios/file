@@ -1,0 +1,18 @@
+ZCZC ===== Chapter 07_1 =====  Week 09 =====
+ZCZC pwd /home/angelindepthios/RESULT/W09
+ZCZC date 210522-2320
+ZCZC hostname angelindepthios
+ZCZC username angelindepthios
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2016-30D6 Verified
+ZCZC MaxLFS 3089M
+ZCZC MaxROOT 1644M
+ZCZC MaxMemory 103M
+ZCZC MaxSwap 0M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2135-5F57 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2253-8C92 Verified
+ZCZC MaxMemory 106M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2400-141A Verified

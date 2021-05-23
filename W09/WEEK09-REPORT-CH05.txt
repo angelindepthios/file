@@ -1,0 +1,234 @@
+ZCZC ===== Chapter 05 =====  Week 09 =====
+ZCZC pwd /home/angelindepthios/RESULT/W09
+ZCZC date 210522-2046
+ZCZC hostname angelindepthios
+ZCZC username angelindepthios
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 4613-7807 Verified
+ZCZC MaxLFS 482M
+ZCZC MaxROOT 1644M
+ZCZC MaxMemory 100M
+ZCZC MaxSwap 0M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 4736-2812 Verified
+ZCZC MaxLFS 539M
+ZCZC MaxMemory 157M
+ZCZC MaxLFS 809M
+ZCZC MaxLFS 810M
+ZCZC MaxLFS 812M
+ZCZC MaxLFS 816M
+ZCZC MaxROOT 1645M
+ZCZC MaxLFS 823M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 4847-3C22 Verified
+ZCZC MaxLFS 835M
+ZCZC MaxROOT 1646M
+ZCZC MaxMemory 262M
+ZCZC MaxLFS 839M
+ZCZC MaxMemory 371M
+ZCZC MaxLFS 882M
+ZCZC MaxLFS 895M
+ZCZC MaxLFS 899M
+ZCZC MaxLFS 929M
+ZCZC MaxLFS 943M
+ZCZC MaxLFS 1035M
+ZCZC MaxLFS 1044M
+ZCZC MaxLFS 1054M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 4955-FD8B Verified
+ZCZC MaxLFS 1067M
+ZCZC MaxLFS 1180M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 5056-AB93 Verified
+ZCZC MaxLFS 1405M
+ZCZC MaxLFS 1473M
+ZCZC MaxLFS 1485M
+ZCZC MaxLFS 1504M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 5204-8C95 Verified
+ZCZC MaxLFS 1509M
+ZCZC MaxLFS 1510M
+ZCZC MaxLFS 1512M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 5307-26D5 Verified
+ZCZC MaxLFS 1515M
+ZCZC MaxLFS 1518M
+ZCZC MaxLFS 1524M
+ZCZC MaxLFS 1525M
+ZCZC MaxLFS 1530M
+ZCZC MaxLFS 1539M
+ZCZC MaxLFS 1541M
+ZCZC MaxLFS 1547M
+ZCZC MaxLFS 1549M
+ZCZC MaxLFS 1551M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 5412-1BF8 Verified
+ZCZC MaxLFS 1557M
+ZCZC MaxLFS 1561M
+ZCZC MaxLFS 1564M
+ZCZC MaxLFS 1573M
+ZCZC MaxLFS 1576M
+ZCZC MaxLFS 1579M
+ZCZC MaxLFS 1581M
+ZCZC MaxLFS 1583M
+ZCZC MaxLFS 1585M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 5515-9733 Verified
+ZCZC MaxLFS 1592M
+ZCZC MaxLFS 1596M
+ZCZC MaxLFS 1601M
+ZCZC MaxLFS 1613M
+ZCZC MaxMemory 430M
+ZCZC MaxLFS 1620M
+ZCZC MaxMemory 596M
+ZCZC MaxLFS 1650M
+ZCZC MaxMemory 634M
+ZCZC MaxLFS 1665M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 5625-4A18 Verified
+ZCZC MaxLFS 1679M
+ZCZC MaxLFS 1685M
+ZCZC MaxMemory 712M
+ZCZC MaxLFS 1686M
+ZCZC MaxMemory 910M
+ZCZC MaxLFS 1687M
+ZCZC MaxMemory 1076M
+ZCZC MaxMemory 1293M
+ZCZC MaxLFS 1689M
+ZCZC MaxROOT 1647M
+ZCZC MaxMemory 1404M
+ZCZC MaxLFS 1693M
+ZCZC MaxROOT 1652M
+ZCZC MaxLFS 1697M
+ZCZC MaxLFS 1706M
+ZCZC MaxROOT 1658M
+ZCZC MaxLFS 1730M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 5742-2E28 Verified
+ZCZC MaxLFS 1752M
+ZCZC MaxLFS 1758M
+ZCZC MaxMemory 1464M
+ZCZC MaxLFS 1769M
+ZCZC MaxMemory 1499M
+ZCZC MaxLFS 1775M
+ZCZC MaxROOT 1661M
+ZCZC MaxLFS 1789M
+ZCZC MaxMemory 1508M
+ZCZC MaxLFS 1796M
+ZCZC MaxMemory 1637M
+ZCZC MaxLFS 1802M
+ZCZC MaxMemory 1639M
+ZCZC MaxLFS 1813M
+ZCZC MaxLFS 1821M
+ZCZC MaxROOT 1663M
+ZCZC MaxMemory 1827M
+ZCZC MaxLFS 1823M
+ZCZC MaxROOT 1668M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 5920-BFDF Verified
+ZCZC MaxLFS 1827M
+ZCZC MaxROOT 1669M
+ZCZC MaxMemory 2163M
+ZCZC MaxLFS 1834M
+ZCZC MaxROOT 1672M
+ZCZC MaxLFS 1837M
+ZCZC MaxROOT 1678M
+ZCZC MaxLFS 1846M
+ZCZC MaxROOT 1680M
+ZCZC MaxLFS 1852M
+ZCZC MaxROOT 1694M
+ZCZC MaxLFS 1871M
+ZCZC MaxROOT 1761M
+ZCZC MaxLFS 1886M
+ZCZC MaxLFS 1901M
+ZCZC MaxLFS 1908M
+ZCZC MaxLFS 1972M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 0116-56FB Verified
+ZCZC MaxLFS 1989M
+ZCZC MaxLFS 2001M
+ZCZC MaxLFS 2010M
+ZCZC MaxLFS 2025M
+ZCZC MaxLFS 2032M
+ZCZC MaxLFS 2038M
+ZCZC MaxLFS 2048M
+ZCZC MaxLFS 2059M
+ZCZC MaxLFS 2063M
+ZCZC MaxLFS 2073M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 0242-0061 Verified
+ZCZC MaxLFS 2077M
+ZCZC MaxLFS 2084M
+ZCZC MaxLFS 2095M
+ZCZC MaxLFS 2100M
+ZCZC MaxLFS 2111M
+ZCZC MaxLFS 2119M
+ZCZC MaxLFS 2125M
+ZCZC MaxLFS 2140M
+ZCZC MaxLFS 2150M
+ZCZC MaxLFS 2159M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 0410-23B5 Verified
+ZCZC MaxLFS 2175M
+ZCZC MaxLFS 2176M
+ZCZC MaxLFS 2193M
+ZCZC MaxLFS 2214M
+ZCZC MaxLFS 2223M
+ZCZC MaxLFS 2235M
+ZCZC MaxLFS 2244M
+ZCZC MaxLFS 2259M
+ZCZC MaxLFS 2265M
+ZCZC MaxLFS 2276M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 0542-AF7B Verified
+ZCZC MaxLFS 2307M
+ZCZC MaxLFS 2313M
+ZCZC MaxLFS 2333M
+ZCZC MaxLFS 2338M
+ZCZC MaxLFS 2358M
+ZCZC MaxLFS 2363M
+ZCZC MaxLFS 2378M
+ZCZC MaxLFS 2388M
+ZCZC MaxLFS 2400M
+ZCZC MaxLFS 2403M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 0715-889D Verified
+ZCZC MaxLFS 2429M
+ZCZC MaxLFS 2442M
+ZCZC MaxLFS 2451M
+ZCZC MaxLFS 2460M
+ZCZC MaxLFS 2472M
+ZCZC MaxLFS 2484M
+ZCZC MaxLFS 2540M
+ZCZC MaxLFS 2548M
+ZCZC MaxLFS 2581M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 0843-9F5F Verified
+ZCZC MaxLFS 2604M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 0953-F192 Verified
+ZCZC MaxLFS 2645M
+ZCZC MaxLFS 2693M
+ZCZC MaxMemory 2558M
+ZCZC MaxLFS 3049M
+ZCZC MaxMemory 2597M
+ZCZC MaxLFS 3382M
+ZCZC MaxMemory 2619M
+ZCZC MaxLFS 3662M
+ZCZC MaxMemory 2853M
+ZCZC MaxLFS 3705M
+ZCZC MaxLFS 3712M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 1057-ED62 Verified
+ZCZC MaxLFS 3716M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 1208-AD81 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 1333-F2EB Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 1445-122B Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 1549-C6E0 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 1657-FF4C Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 1805-2917 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 1927-AD26 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2036-F0E5 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2146-3C17 Verified
+ZCZC MaxLFS 4833M
+ZCZC MaxLFS 4839M
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2252-75A1 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2356-C90C Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2515-DE54 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2622-0937 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2730-7583 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2835-6FD9 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 2940-F6CA Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 3054-E03A Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 3207-10A8 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 3315-A3B8 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 3433-09D3 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 3538-83E0 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 3649-7C01 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 3756-1CEB Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 3859-4DC4 Verified
+ZCZC verifyTokenn angelindepthiosW09 angelindepthios 4020-FE73 Verified
